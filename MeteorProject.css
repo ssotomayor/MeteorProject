@@ -1,0 +1,33 @@
+/* CSS declarations go here */
+
+body{
+	font:normal 13px/14px Tahoma,Verdana,Arial;
+	color:#333;
+}
+
+#master_layout{
+	width:1024px;
+	margin: 0 auto;
+	margin-top:20px;
+}
+
+
+#left_menu{
+	width:300px;
+}
+
+.mainbbs{
+	width:100%;
+	background:#FFF;
+}
+
+.mainbbs th{
+	background:#AFA;
+	padding:3px;
+}
+
+.mainbbs td{
+	border:solid 1px #CCC;
+	padding:3px;
+}
+
